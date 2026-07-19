@@ -60,3 +60,13 @@ mini-js-games/
     ├── style.css
     └── script.js
 ```
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project useful, consider starring the repository!
+
+Made with ❤️ by **Auritro Dey Kirty**
+
+</div>
