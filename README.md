@@ -1,6 +1,6 @@
 # Mini JS Projects
 
-A collection of small vanilla JavaScript builds — each one targeting a specific concept. Built while learning the fundamentals of DOM manipulation, event handling, and JS logic.
+A collection of small vanilla JavaScript builds, each one targeting a specific concept. Built while learning the fundamentals of DOM manipulation, event handling, and JS logic.
 
 > **Live → [Rock Paper Scissors](https://auritrodeykirty07.github.io/mini-js-games/rock-paper-scissors/) · [Digital Clock](https://auritrodeykirty07.github.io/mini-js-games/digital-clock/)**
 
